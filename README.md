@@ -4,6 +4,8 @@ tugas NGC_2 dengan soal sebagai berikut:
 
 
 ==  Assignment Instructions  ===
+
+
 Buatlah sebuah list dengan value berupa:
 
   numbers = [
